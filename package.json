@@ -1,0 +1,26 @@
+{
+  "name": "rodamotos_server",
+  "version": "1.0.0",
+  "description": "Servidor do Projeto RodaMotos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodasistemas/rodamotos_server.git"
+  },
+  "keywords": [
+    "Moto",
+    "Piloto",
+    "Passageiro",
+    "Corrida",
+    "Entrega"
+  ],
+  "author": "Rodrigo Daniel Andrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodasistemas/rodamotos_server/issues"
+  },
+  "homepage": "https://github.com/rodasistemas/rodamotos_server#readme"
+}
